@@ -85,7 +85,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startwith('$jc'):
+    if message.content.startswith('$jc'):
         await message.channel.send(make_text(chains))
 
 
