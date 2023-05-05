@@ -1,0 +1,1 @@
+export DISCORD_TOKEN="MTEwNDE3MzYzMDA3MTUwNTAyNg.Gp4bj8.10o9pcZKNwiDquihkptqvD-Lzfsb_sCGGsQJ1c"
